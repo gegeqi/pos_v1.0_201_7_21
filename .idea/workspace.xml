@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3969552e-8999-4b13-bfb8-f0cd87985696" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Go 2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/111111.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/pos-spec.js" afterPath="$PROJECT_DIR$/spec/pos-spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pos.js" afterPath="$PROJECT_DIR$/src/pos.js" />
+    </list>
+    <ignored path="pos-spec-base.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="pos-spec-base" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pos.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pos.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+              <folding>
+                <element signature="e#26#84#0" expanded="false" />
+                <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+                <element signature="n#!!block;n#loadPromotions#0" expanded="false" />
+                <element signature="n#!!block;n#formatTags#0" expanded="false" />
+                <element signature="e#1203#1345#0" expanded="false" />
+                <element signature="n#!!block;n#mergeBarcodes#0" expanded="false" />
+                <element signature="n#!!block;n#changeType#0" expanded="false" />
+                <element signature="n#!!block;n#addType#0;n#!!block;n#changeType#0" expanded="false" />
+                <element signature="n#!!block;n#getCartItems#0;n#!!block;n#changeType#0" expanded="false" />
+                <element signature="n#!!block;n#addType#0" expanded="false" />
+                <element signature="n#!!block;n#getCartItems#0" expanded="false" />
+                <element signature="n#!!block;n#getPromotionSubtotal#0" expanded="false" />
+                <element signature="n#!!block;n#calculateTotal#0" expanded="false" />
+                <element signature="n#!!block;n#getSubtotal#0" expanded="false" />
+                <element signature="n#!!block;n#calculateSaveMoney#0" expanded="false" />
+                <element signature="e#4613#4995#0" expanded="false" />
+                <element signature="n#!!block;n#printReceipt#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Go 2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Go 2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+              <folding>
+                <element signature="e#124#214#0" expanded="false" />
+                <element signature="e#247#1347#0" expanded="false" />
+                <element signature="e#1382#1685#0" expanded="false" />
+                <element signature="e#1719#1967#0" expanded="false" />
+                <element signature="e#1765#1955#0" expanded="false" />
+                <element signature="e#2010#2467#0" expanded="false" />
+                <element signature="e#2511#3927#0" expanded="false" />
+                <element signature="e#2993#3422#0" expanded="false" />
+                <element signature="e#3482#3926#0" expanded="false" />
+                <element signature="e#3972#4391#0" expanded="false" />
+                <element signature="e#4447#4798#0" expanded="false" />
+                <element signature="e#4848#5232#0" expanded="false" />
+                <element signature="e#5285#5458#0" expanded="false" />
+                <element signature="e#5507#5789#0" expanded="false" />
+                <element signature="e#5837#6029#0" expanded="false" />
+                <element signature="e#6082#6540#0" expanded="false" />
+                <element signature="e#6579#7228#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pos-spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/pos-spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="66" column="36" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+              <folding>
+                <element signature="e#47#593#0" expanded="false" />
+                <element signature="e#634#1259#0" expanded="false" />
+                <element signature="e#1299#1738#0" expanded="false" />
+                <element signature="e#1772#2674#0" expanded="false" />
+                <element signature="e#2279#2409#0" expanded="false" />
+                <element signature="e#2423#2580#0" expanded="false" />
+                <element signature="e#2714#3873#0" expanded="false" />
+                <element signature="e#3922#4883#0" expanded="false" />
+                <element signature="e#4926#5519#0" expanded="false" />
+                <element signature="e#5559#6625#0" expanded="false" />
+                <element signature="e#6672#7323#0" expanded="false" />
+                <element signature="e#7357#7944#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fixtures.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fixtures.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="41" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testPos.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testPos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testPos.html" />
+        <option value="/media/qinqi/学习/test/question/index.html" />
+        <option value="/media/qinqi/学习/test/pos-base/yes.html" />
+        <option value="/media/qinqi/学习/test/pos-base/morning.html" />
+        <option value="$PROJECT_DIR$/src/111111.html" />
+        <option value="$PROJECT_DIR$/spec/pos-spec.js" />
+        <option value="$PROJECT_DIR$/src/pos.js" />
+        <option value="$PROJECT_DIR$/Go 2.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pos-spec-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pos-spec-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pos-spec-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pos-spec-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pos-spec-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pos-spec-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pos-spec-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pos-spec-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pos-spec-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmine-2.4.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.3.0/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3969552e-8999-4b13-bfb8-f0cd87985696" name="Default" comment="" />
+      <created>1469091017910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1469091017910</updated>
+      <workItem from="1469091020178" duration="5172000" />
+      <workItem from="1469156397686" duration="322000" />
+      <workItem from="1469156839355" duration="2527000" />
+      <workItem from="1469159394564" duration="16219000" />
+      <workItem from="1469200613172" duration="10555000" />
+      <workItem from="1469211554133" duration="3852000" />
+      <workItem from="1469227807472" duration="1908000" />
+      <workItem from="1469232708564" duration="467000" />
+      <workItem from="1469233520629" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41036000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file:///media/qinqi/学习/test/pos-base/yes.html</url>
+          <line>67</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="215" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#84#0" expanded="false" />
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+            <element signature="n#!!block;n#loadPromotions#0" expanded="false" />
+            <element signature="n#!!block;n#formatTags#0" expanded="false" />
+            <element signature="e#1203#1345#0" expanded="false" />
+            <element signature="n#!!block;n#mergeBarcodes#0" expanded="false" />
+            <element signature="n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0" expanded="false" />
+            <element signature="n#!!block;n#getPromotionSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateTotal#0" expanded="false" />
+            <element signature="n#!!block;n#getSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateSaveMoney#0" expanded="false" />
+            <element signature="e#4613#4995#0" expanded="false" />
+            <element signature="n#!!block;n#printReceipt#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Go 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4161">
+          <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+          <folding>
+            <element signature="e#124#214#0" expanded="false" />
+            <element signature="e#247#1347#0" expanded="false" />
+            <element signature="e#1382#1685#0" expanded="false" />
+            <element signature="e#1719#1967#0" expanded="false" />
+            <element signature="e#1765#1955#0" expanded="false" />
+            <element signature="e#2010#2467#0" expanded="false" />
+            <element signature="e#2511#3927#0" expanded="false" />
+            <element signature="e#2993#3422#0" expanded="false" />
+            <element signature="e#3482#3926#0" expanded="false" />
+            <element signature="e#3972#4391#0" expanded="false" />
+            <element signature="e#4447#4798#0" expanded="false" />
+            <element signature="e#4848#5232#0" expanded="false" />
+            <element signature="e#5285#5458#0" expanded="false" />
+            <element signature="e#5507#5789#0" expanded="false" />
+            <element signature="e#5837#6029#0" expanded="false" />
+            <element signature="e#6082#6540#0" expanded="false" />
+            <element signature="e#6579#7228#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/pos-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="66" column="36" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+          <folding>
+            <element signature="e#47#593#0" expanded="false" />
+            <element signature="e#634#1259#0" expanded="false" />
+            <element signature="e#1299#1738#0" expanded="false" />
+            <element signature="e#1772#2674#0" expanded="false" />
+            <element signature="e#2279#2409#0" expanded="false" />
+            <element signature="e#2423#2580#0" expanded="false" />
+            <element signature="e#2714#3873#0" expanded="false" />
+            <element signature="e#3922#4883#0" expanded="false" />
+            <element signature="e#4926#5519#0" expanded="false" />
+            <element signature="e#5559#6625#0" expanded="false" />
+            <element signature="e#6672#7323#0" expanded="false" />
+            <element signature="e#7357#7944#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fixtures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="41" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#84#0" expanded="false" />
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+            <element signature="n#!!block;n#loadPromotions#0" expanded="false" />
+            <element signature="n#!!block;n#formatTags#0" expanded="false" />
+            <element signature="e#1203#1345#0" expanded="false" />
+            <element signature="n#!!block;n#mergeBarcodes#0" expanded="false" />
+            <element signature="n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0" expanded="false" />
+            <element signature="n#!!block;n#getPromotionSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateTotal#0" expanded="false" />
+            <element signature="n#!!block;n#getSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateSaveMoney#0" expanded="false" />
+            <element signature="e#4613#4995#0" expanded="false" />
+            <element signature="n#!!block;n#printReceipt#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Go 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4142">
+          <caret line="218" column="27" selection-start-line="6" selection-start-column="8" selection-end-line="218" selection-end-column="27" />
+          <folding>
+            <element signature="e#124#214#0" expanded="false" />
+            <element signature="e#247#1347#0" expanded="false" />
+            <element signature="e#1382#1685#0" expanded="false" />
+            <element signature="e#1719#1967#0" expanded="false" />
+            <element signature="e#1765#1955#0" expanded="false" />
+            <element signature="e#2010#2467#0" expanded="false" />
+            <element signature="e#2511#3927#0" expanded="false" />
+            <element signature="e#2993#3422#0" expanded="false" />
+            <element signature="e#3482#3926#0" expanded="false" />
+            <element signature="e#3972#4391#0" expanded="false" />
+            <element signature="e#4447#4798#0" expanded="false" />
+            <element signature="e#4848#5232#0" expanded="false" />
+            <element signature="e#5285#5458#0" expanded="false" />
+            <element signature="e#5507#5789#0" expanded="false" />
+            <element signature="e#5837#6029#0" expanded="false" />
+            <element signature="e#6082#6540#0" expanded="false" />
+            <element signature="e#6579#7228#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/pos-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="66" column="36" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+          <folding>
+            <element signature="e#47#593#0" expanded="false" />
+            <element signature="e#634#1259#0" expanded="false" />
+            <element signature="e#1299#1738#0" expanded="false" />
+            <element signature="e#1772#2674#0" expanded="false" />
+            <element signature="e#2279#2409#0" expanded="false" />
+            <element signature="e#2423#2580#0" expanded="false" />
+            <element signature="e#2714#3873#0" expanded="false" />
+            <element signature="e#3922#4883#0" expanded="false" />
+            <element signature="e#4926#5519#0" expanded="false" />
+            <element signature="e#5559#6625#0" expanded="false" />
+            <element signature="e#6672#7323#0" expanded="false" />
+            <element signature="e#7357#7944#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fixtures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="41" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2945">
+          <caret line="155" column="19" selection-start-line="130" selection-start-column="0" selection-end-line="155" selection-end-column="19" />
+          <folding>
+            <element signature="e#26#84#0" expanded="false" />
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+            <element signature="n#!!block;n#loadPromotions#0" expanded="false" />
+            <element signature="n#!!block;n#formatTags#0" expanded="false" />
+            <element signature="e#1203#1345#0" expanded="false" />
+            <element signature="n#!!block;n#mergeBarcodes#0" expanded="false" />
+            <element signature="n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0" expanded="false" />
+            <element signature="n#!!block;n#getPromotionSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateTotal#0" expanded="false" />
+            <element signature="n#!!block;n#getSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateSaveMoney#0" expanded="false" />
+            <element signature="e#4613#4995#0" expanded="false" />
+            <element signature="n#!!block;n#printReceipt#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Go 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#124#214#0" expanded="false" />
+            <element signature="e#247#1347#0" expanded="false" />
+            <element signature="e#1382#1685#0" expanded="false" />
+            <element signature="e#1719#1967#0" expanded="false" />
+            <element signature="e#1765#1955#0" expanded="false" />
+            <element signature="e#2010#2467#0" expanded="false" />
+            <element signature="e#2511#3927#0" expanded="false" />
+            <element signature="e#2993#3422#0" expanded="false" />
+            <element signature="e#3482#3926#0" expanded="false" />
+            <element signature="e#3972#4391#0" expanded="false" />
+            <element signature="e#4447#4798#0" expanded="false" />
+            <element signature="e#4848#5232#0" expanded="false" />
+            <element signature="e#5285#5458#0" expanded="false" />
+            <element signature="e#5507#5789#0" expanded="false" />
+            <element signature="e#5837#6029#0" expanded="false" />
+            <element signature="e#6082#6540#0" expanded="false" />
+            <element signature="e#6579#7228#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/pos-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="358" column="17" selection-start-line="358" selection-start-column="17" selection-end-line="358" selection-end-column="17" />
+          <folding>
+            <element signature="e#47#593#0" expanded="false" />
+            <element signature="e#634#1259#0" expanded="false" />
+            <element signature="e#1299#1738#0" expanded="false" />
+            <element signature="e#1772#2674#0" expanded="false" />
+            <element signature="e#2279#2409#0" expanded="false" />
+            <element signature="e#2423#2580#0" expanded="false" />
+            <element signature="e#2714#3873#0" expanded="false" />
+            <element signature="e#3922#4883#0" expanded="false" />
+            <element signature="e#4926#5519#0" expanded="false" />
+            <element signature="e#5559#6625#0" expanded="false" />
+            <element signature="e#6672#7323#0" expanded="false" />
+            <element signature="e#7357#7944#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fixtures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="41" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#84#0" expanded="false" />
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+            <element signature="n#!!block;n#loadPromotions#0" expanded="false" />
+            <element signature="n#!!block;n#formatTags#0" expanded="false" />
+            <element signature="e#1203#1345#0" expanded="false" />
+            <element signature="n#!!block;n#mergeBarcodes#0" expanded="false" />
+            <element signature="n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0" expanded="false" />
+            <element signature="n#!!block;n#getPromotionSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateTotal#0" expanded="false" />
+            <element signature="n#!!block;n#getSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateSaveMoney#0" expanded="false" />
+            <element signature="e#4613#4995#0" expanded="false" />
+            <element signature="n#!!block;n#printReceipt#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/pos-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="358" column="17" selection-start-line="358" selection-start-column="17" selection-end-line="358" selection-end-column="17" />
+          <folding>
+            <element signature="e#47#593#0" expanded="false" />
+            <element signature="e#634#1259#0" expanded="false" />
+            <element signature="e#1299#1738#0" expanded="false" />
+            <element signature="e#1772#2674#0" expanded="false" />
+            <element signature="e#2279#2409#0" expanded="false" />
+            <element signature="e#2423#2580#0" expanded="false" />
+            <element signature="e#2714#3873#0" expanded="false" />
+            <element signature="e#3922#4883#0" expanded="false" />
+            <element signature="e#4926#5519#0" expanded="false" />
+            <element signature="e#5559#6625#0" expanded="false" />
+            <element signature="e#6672#7323#0" expanded="false" />
+            <element signature="e#7357#7944#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fixtures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/111111.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="74" column="1" selection-start-line="1" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#84#0" expanded="false" />
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+            <element signature="n#!!block;n#loadPromotions#0" expanded="false" />
+            <element signature="n#!!block;n#formatTags#0" expanded="false" />
+            <element signature="e#1203#1345#0" expanded="false" />
+            <element signature="n#!!block;n#mergeBarcodes#0" expanded="false" />
+            <element signature="n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0" expanded="false" />
+            <element signature="n#!!block;n#getPromotionSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateTotal#0" expanded="false" />
+            <element signature="n#!!block;n#getSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateSaveMoney#0" expanded="false" />
+            <element signature="e#4613#4995#0" expanded="false" />
+            <element signature="n#!!block;n#printReceipt#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/111111.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fixtures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/pos-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+          <folding>
+            <element signature="e#47#593#0" expanded="false" />
+            <element signature="e#634#1259#0" expanded="false" />
+            <element signature="e#1299#1738#0" expanded="false" />
+            <element signature="e#1772#2674#0" expanded="false" />
+            <element signature="e#2279#2409#0" expanded="false" />
+            <element signature="e#2423#2580#0" expanded="false" />
+            <element signature="e#2714#3873#0" expanded="false" />
+            <element signature="e#3922#4883#0" expanded="false" />
+            <element signature="e#4926#5519#0" expanded="false" />
+            <element signature="e#5559#6625#0" expanded="false" />
+            <element signature="e#6672#7323#0" expanded="false" />
+            <element signature="e#7357#7944#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/pos-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2432">
+          <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#593#0" expanded="false" />
+            <element signature="e#634#1259#0" expanded="false" />
+            <element signature="e#1299#1738#0" expanded="false" />
+            <element signature="e#1772#2674#0" expanded="false" />
+            <element signature="e#2279#2409#0" expanded="false" />
+            <element signature="e#2423#2580#0" expanded="false" />
+            <element signature="e#2714#3873#0" expanded="false" />
+            <element signature="e#3922#4883#0" expanded="false" />
+            <element signature="e#4926#5519#0" expanded="false" />
+            <element signature="e#5559#6625#0" expanded="false" />
+            <element signature="e#6672#7323#0" expanded="false" />
+            <element signature="e#7357#7944#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/qinqi/学习/test/pos/pos_v1/README.md" />
+    <entry file="file://$PROJECT_DIR$/testPos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#84#0" expanded="false" />
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+            <element signature="n#!!block;n#loadPromotions#0" expanded="false" />
+            <element signature="n#!!block;n#formatTags#0" expanded="false" />
+            <element signature="e#1203#1345#0" expanded="false" />
+            <element signature="n#!!block;n#mergeBarcodes#0" expanded="false" />
+            <element signature="n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0" expanded="false" />
+            <element signature="n#!!block;n#getPromotionSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateTotal#0" expanded="false" />
+            <element signature="n#!!block;n#getSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateSaveMoney#0" expanded="false" />
+            <element signature="e#4613#4995#0" expanded="false" />
+            <element signature="n#!!block;n#printReceipt#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/qinqi/学习/test/pos-base/morning.html" />
+    <entry file="file://$PROJECT_DIR$/spec/pos-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="145" selection-start-line="26" selection-start-column="145" selection-end-line="26" selection-end-column="145" />
+          <folding>
+            <element signature="e#47#593#0" expanded="false" />
+            <element signature="e#634#1259#0" expanded="false" />
+            <element signature="e#1299#1738#0" expanded="false" />
+            <element signature="e#1772#2674#0" expanded="false" />
+            <element signature="e#2279#2409#0" expanded="false" />
+            <element signature="e#2423#2580#0" expanded="false" />
+            <element signature="e#2714#3873#0" expanded="false" />
+            <element signature="e#3922#4883#0" expanded="false" />
+            <element signature="e#4926#5519#0" expanded="false" />
+            <element signature="e#5559#6625#0" expanded="false" />
+            <element signature="e#6672#7323#0" expanded="false" />
+            <element signature="e#7357#7944#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fixtures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+          <folding>
+            <element signature="e#26#84#0" expanded="false" />
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+            <element signature="n#!!block;n#loadPromotions#0" expanded="false" />
+            <element signature="n#!!block;n#formatTags#0" expanded="false" />
+            <element signature="e#1203#1345#0" expanded="false" />
+            <element signature="n#!!block;n#mergeBarcodes#0" expanded="false" />
+            <element signature="n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0" expanded="false" />
+            <element signature="n#!!block;n#getPromotionSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateTotal#0" expanded="false" />
+            <element signature="n#!!block;n#getSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateSaveMoney#0" expanded="false" />
+            <element signature="e#4613#4995#0" expanded="false" />
+            <element signature="n#!!block;n#printReceipt#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/qinqi/学习/test/question/index.html" />
+    <entry file="file://$PROJECT_DIR$/lib/jasmine-2.4.1/jasmine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jasmine-2.4.1/jasmine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2223">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/qinqi/学习/test/pos-base/yes.html" />
+    <entry file="file:///media/qinqi/学习/test/pos/pos_v1/README.md" />
+    <entry file="file:///media/qinqi/学习/test/pos-base/morning.html" />
+    <entry file="file://$PROJECT_DIR$/src/111111.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fixtures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="41" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/pos-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="66" column="36" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+          <folding>
+            <element signature="e#47#593#0" expanded="false" />
+            <element signature="e#634#1259#0" expanded="false" />
+            <element signature="e#1299#1738#0" expanded="false" />
+            <element signature="e#1772#2674#0" expanded="false" />
+            <element signature="e#2279#2409#0" expanded="false" />
+            <element signature="e#2423#2580#0" expanded="false" />
+            <element signature="e#2714#3873#0" expanded="false" />
+            <element signature="e#3922#4883#0" expanded="false" />
+            <element signature="e#4926#5519#0" expanded="false" />
+            <element signature="e#5559#6625#0" expanded="false" />
+            <element signature="e#6672#7323#0" expanded="false" />
+            <element signature="e#7357#7944#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Go 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+          <folding>
+            <element signature="e#124#214#0" expanded="false" />
+            <element signature="e#247#1347#0" expanded="false" />
+            <element signature="e#1382#1685#0" expanded="false" />
+            <element signature="e#1719#1967#0" expanded="false" />
+            <element signature="e#1765#1955#0" expanded="false" />
+            <element signature="e#2010#2467#0" expanded="false" />
+            <element signature="e#2511#3927#0" expanded="false" />
+            <element signature="e#2993#3422#0" expanded="false" />
+            <element signature="e#3482#3926#0" expanded="false" />
+            <element signature="e#3972#4391#0" expanded="false" />
+            <element signature="e#4447#4798#0" expanded="false" />
+            <element signature="e#4848#5232#0" expanded="false" />
+            <element signature="e#5285#5458#0" expanded="false" />
+            <element signature="e#5507#5789#0" expanded="false" />
+            <element signature="e#5837#6029#0" expanded="false" />
+            <element signature="e#6082#6540#0" expanded="false" />
+            <element signature="e#6579#7228#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#84#0" expanded="false" />
+            <element signature="n#!!block;n#loadAllItems#0" expanded="false" />
+            <element signature="n#!!block;n#loadPromotions#0" expanded="false" />
+            <element signature="n#!!block;n#formatTags#0" expanded="false" />
+            <element signature="e#1203#1345#0" expanded="false" />
+            <element signature="n#!!block;n#mergeBarcodes#0" expanded="false" />
+            <element signature="n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0;n#!!block;n#changeType#0" expanded="false" />
+            <element signature="n#!!block;n#addType#0" expanded="false" />
+            <element signature="n#!!block;n#getCartItems#0" expanded="false" />
+            <element signature="n#!!block;n#getPromotionSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateTotal#0" expanded="false" />
+            <element signature="n#!!block;n#getSubtotal#0" expanded="false" />
+            <element signature="n#!!block;n#calculateSaveMoney#0" expanded="false" />
+            <element signature="e#4613#4995#0" expanded="false" />
+            <element signature="n#!!block;n#printReceipt#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
